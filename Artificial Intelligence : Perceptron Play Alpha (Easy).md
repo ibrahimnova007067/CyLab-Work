@@ -12,7 +12,7 @@ Yeah, our challenge here also deals in two dimensions. And for two dimensions, t
 
 w1.x1 + w2.x2 + b >= 0
 
-I found it simple enough. All we're doing is adding the second input, and naturally the weight is multiplied twice, since one set of input values can weigh different from the other, and bias is chill. 
+I found it simple enough. All we're doing is adding the second input, and naturally the weight is multiplied twice, since one set of input values can weigh different from the other, and the bias is chill. 
 Well, let's begin!
 
 Of course, the beginnings are always the same : 
