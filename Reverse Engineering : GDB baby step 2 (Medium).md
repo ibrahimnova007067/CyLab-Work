@@ -19,7 +19,7 @@ Those are a lot of words, huh? But first, let's just try simply running the prog
 
 <img width="615" height="175" alt="image" src="https://github.com/user-attachments/assets/fb72d16e-1f98-4e37-a887-eb7c6f049972" />
 
-Hmm, look at that. It seems like after the program is finished we can't inspect final register values. If we were able to, we would've directly gotten the answer, so how do we solve this?
+Hmm, look at that. It seems that after the program is finished, we can't inspect final register values. If we were able to, we would've directly gotten the answer, so how do we solve this?
 Ashamedly, I have to admit that I hit a dead end and decided to open a hint. But I did a ton of stuff perfectly until this part, okay?!
 
 <img width="1269" height="97" alt="image" src="https://github.com/user-attachments/assets/47fadc76-19ed-403b-9633-6ac130277fb3" />
