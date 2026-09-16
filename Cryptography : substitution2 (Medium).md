@@ -27,11 +27,17 @@ I've realized something. It has curly brackets, underscores, non-substituted num
 And since we know flags always start with picoCTF, we've received the answer to 6 letters off the bat!
 
 q = p
+
 t = i
+
 l = c
+
 v = o
+
 l = c
+
 k = t
+
 o = f
 
 <img width="1753" height="321" alt="image" src="https://github.com/user-attachments/assets/acc622e9-8088-47c1-9a29-d86d46c6282d" />
@@ -45,7 +51,9 @@ There's no way that word isn't competition.
 So now, we have :
 
 r = m
+
 j = e
+
 u = n
 
 And now there's another oddball yet again!
@@ -62,16 +70,27 @@ g = a
 Oh my! Now so many words are obvious!! I won't point out each individual one, but rather, I'll make all the possible substitutions I see here.
 
 y = y
+
 b = s
+
 h = u
+
 w = h
+
 s = l
+
 x = g
+
 z = d
+
 i = k
+
 d = w
+
 f = v
+
 m = b
+
 a = q
 
 <img width="1761" height="284" alt="image" src="https://github.com/user-attachments/assets/1d3c8430-8bc6-4ea7-a5d0-d3685467e24b" />
