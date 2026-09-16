@@ -4,7 +4,7 @@ In this challenge, I learned about a new tool - Grep! Here's what the challenge 
 
 <img width="1449" height="269" alt="image" src="https://github.com/user-attachments/assets/04dff99b-6929-45a1-abd3-8932889e356a" />
 
-My first instinct, when dealing with any sort of file like this, is to immediately put it into the CyLab Academy webshell first. This is because, in these types of challenges, 95% of the time, all the necessary operations and inspections are things like cat, bash, strings, gdb, etc. And so, I did exactly that, using wget and copying the address of the file.
+My first instinct, when dealing with any sort of file like this, is to immediately put it into the CyLab Academy webshell first. This is because, in these types of challenges, 95% of the time, all the necessary operations and inspections deal with commands such as cat. And so, I did exactly that, using wget and copying the address of the file.
 
 <img width="1844" height="231" alt="Screenshot 2026-09-13 203424" src="https://github.com/user-attachments/assets/159654b2-34ba-41fd-ad18-1b54f091247e" />
 
