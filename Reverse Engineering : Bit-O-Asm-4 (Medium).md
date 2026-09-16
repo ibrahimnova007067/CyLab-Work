@@ -15,7 +15,9 @@ I see only one key command, and that's jle here. I knew this was a jump instruct
 <img width="448" height="43" alt="image" src="https://github.com/user-attachments/assets/7086627e-ac5e-4509-93ec-f06bcb386e42" />
 
 These are the only two instructions related to before our 'jle', so let's see here...
+
 <+15>: Simple enough - the value '0x9fe1a' is being moved into DWORD PTR [rbp-0x4]
+
 <+22>: cmp stands for 'compare'. We're comparing the value inside DWORD PTR [rbp-0x4] (0x9fe1a) with 0x2710. Let's do a quick conversion, and...
 
 <img width="130" height="536" alt="image" src="https://github.com/user-attachments/assets/6e23feec-92bf-4dbd-b267-ae522d7827a3" />
@@ -33,6 +35,7 @@ Well, after that brutal comparison, we're immediately followed up by our main cu
 <+31>: Here, because it says "sub", we're subtracting 0x65 from 0x9fe1a. Using CyberChef yet again, that gives us :
 
 <img width="134" height="531" alt="image" src="https://github.com/user-attachments/assets/d60c68ee-4bb9-4aca-8caf-1f2a41ac2709" />
+
 654874 - 101 = 654773
 
 <+35>: That's just an unconditional jump. Hey, I'm not complaining ; makes things easier for us.
