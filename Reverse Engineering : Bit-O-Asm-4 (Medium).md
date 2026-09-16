@@ -4,9 +4,7 @@ Truthfully, unlike virtually every other CyLab Academy challenge, I'm familiar w
 
 <img width="766" height="258" alt="image" src="https://github.com/user-attachments/assets/28eda2d8-54c3-4ccb-9303-f4894ea6e694" />
 
-One thing I like about these assembly challenges, although 'random' is the fact that we aren't dealing with webshells here. Don't get me wrong, a webshell is, without question, the most convenient and needed tool throughout all these challenges, and that's exactly why Bit-O-Asm feels like a breath of fresh air. No wget, no nano, no chmod +x, just your file over here. The same goes for Web Exploitation challenges, though.
-
-Enough talk though, when we open up the file, we see this : 
+ When we open up the file, we see this : 
 
 <img width="462" height="306" alt="image" src="https://github.com/user-attachments/assets/9be95531-12ee-4473-9a7c-19cd6107b02a" />
 
