@@ -63,6 +63,7 @@ And now there's another oddball yet again!
 That word is practice, right?
 
 e = r
+
 g = a
 
 <img width="1784" height="315" alt="image" src="https://github.com/user-attachments/assets/86714807-2290-4017-86df-7f42b4eb2f93" />
