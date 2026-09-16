@@ -28,7 +28,7 @@ I decided to believe in Cylab Security Academy, thinking that they wouldn't be s
 No, wait a minute, I get it! It's the bias! For a perceptron, the equation is w.x + b, but what I left out is the last part : w(x) + b >= 0.
 A perceptron only fires (a 1) when the mathematical sum is greater than or equal to 0. So now, the way I understood the value of the bias is as follows :
 
-w = 1, x = 2 (we need the decision boundary to be at 2, so the equation must equal 0, must equal the dividing line, when x = 2)
+w = 1, x = 2 (we need the decision boundary to be at 2, so the equation must equal 0/must equal the dividing line when x = 2)
 
 w(x) + b = 0
 
