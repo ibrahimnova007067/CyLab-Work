@@ -11,7 +11,7 @@ And so, I began.
 <img width="426" height="25" alt="image" src="https://github.com/user-attachments/assets/4b8051f3-6d0e-466d-b204-0802b911ad02" />
 <img width="1692" height="962" alt="image" src="https://github.com/user-attachments/assets/aa310b55-c843-468c-b322-4a7aa87fdfa9" />
 
-So essentially, what I'm looking at here isn't news to me. Through previous challenges, I learned about learning rates, where you select a learning rate, and a simulation is automatically ran to determine whether the weights and bias separate all the points perfectly or not. And the best part? It tells you how accurate you are in %, so none of that primitive trial and error anymore - you're no longer in the dark.
+So essentially, what I'm looking at here isn't news to me. Through previous challenges, I learned about learning rates, where you select a learning rate and a simulation is automatically ran to determine whether the weights and bias separate all the points perfectly or not. And the best part? It tells you how accurate you are in %, so none of that primitive trial and error anymore - you're no longer in the dark.
 
 Now, I started simple with a 0.02... aaand...
 
